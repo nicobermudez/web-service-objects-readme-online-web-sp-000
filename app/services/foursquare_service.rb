@@ -12,4 +12,7 @@ class FoursquareService
     body["access_token"]
   end
 
+  def friends(token)
+  end
+
 end
